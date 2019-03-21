@@ -17,6 +17,8 @@
 ## Vim & Emacs temp files:
 .*sw[op]
 *~
+## Idea:
+.idea
 
 ### Mac OS X ###
 ## Mac OS X metadata files:
