@@ -1,4 +1,6 @@
 
+**[--> My Resume <--](https://github.com/kozub/My-CV/blob/master/kozub-cv/resume.pdf)**
+
 ## macOS compilation
 
 1. Install [MacTeX](https://www.tug.org/mactex/mactex-download.html).
