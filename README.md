@@ -1,5 +1,5 @@
 
-**[--> My Resume <--](https://github.com/kozub/My-CV/blob/master/kozub-cv/resume.pdf)**
+**[--> My Resume <--](https://github.com/kozub/My-CV/blob/master/GrzegorzKozubCV.pdf)**
 
 ## macOS compilation
 
